@@ -60,14 +60,13 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>JIIT NOIDA</p>
+                <p>FC COLLEGE</p>
             </div>
 
         </div>
 
         <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17786.14796216234!2d77.36912155731619!3d28.62549268679601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce551491b3ce7%3A0x7335d9fcfd4d9db0!2sJAYPEE%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY!5e0!3m2!1sen!2sin!4v1673264938777!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div><!-- End Google Maps -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.1327388450272!2d73.83815847506229!3d18.522902782571173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf80982203c7%3A0xba2ba195e24b828a!2sFergusson%20College!5e0!3m2!1sen!2sin!4v1712744042002!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div><!-- End Google Maps -->
 
         <div class="container">
 

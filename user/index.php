@@ -69,7 +69,14 @@ require_once("../db.php");
                     <!-- <li><a href="../jobs.php"><i class="fa fa-list-ul"></i> Active Drives</a></li> -->
                     <li><a href="mailbox.php"><i class="fa fa-envelope"></i> Mailbox</a></li>
                     <li><a href="settings.php"><i class="fa fa-gear"></i> Settings</a></li>
-                    <li><a href="../logout.php"><i class="fa fa-arrow-circle-o-right"></i> Logout</a></li>
+                    <li><!-- Example of logout button in admin_header.php -->
+
+<!-- You can place this within your header file where it makes sense -->
+<!-- Example of logout button in admin_header.php -->
+
+<!-- You can place this within your header file where it makes sense -->
+<a href="logout.php" class="btn btn-danger">Logout</a>
+
                   </ul>
 
                 </div>
